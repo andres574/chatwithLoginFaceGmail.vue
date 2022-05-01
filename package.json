@@ -1,0 +1,30 @@
+{
+  "name": "login-face-google",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "@fortawesome/fontawesome-free": "5.15.3",
+    "core-js": "^3.8.3",
+    "firebase": "^8.7.1",
+    "moment": "^2.29.3",
+    "roboto-fontface": "*",
+    "vue": "^2.6.14",
+    "vue-chat-scroll": "^1.4.0",
+    "vue-router": "^3.5.1",
+    "vuetify": "^2.6.0",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "vue-cli-plugin-vuetify": "~2.4.8",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
